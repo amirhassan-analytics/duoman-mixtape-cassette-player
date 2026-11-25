@@ -1,4 +1,4 @@
-# DUOMAN (`mixtape`)
+# MixShare (`mixtape`)
 
 A tactile cassette and mixtape player built in SwiftUI for dual-screen **iPhone Duo** layouts, pairing nostalgic Walkman-inspired controls and sound effects with modern playlist and voice-note workflows.
 
